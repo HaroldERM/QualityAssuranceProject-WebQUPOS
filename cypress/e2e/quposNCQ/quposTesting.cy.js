@@ -1,3 +1,8 @@
+/*
+Link Github Repo:
+https://github.com/HaroldERM/QualityAssuranceProject-WebQUPOS
+*/
+
 /// <reference types="cypress" />
 /*
 Casos de prueba para el apartado del Login
